@@ -53,7 +53,8 @@ Patients can easily **register, log in, book appointments, and provide feedback*
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>  
 
-👨‍💻 Author
+##👨‍💻 Author
+
 ✨ 𝑬𝒏𝒈. 𝒫𝒶𝓊𝓁𝒶 𝐻𝒶𝓃𝓃𝒶 𝒩𝒶𝑔𝓊𝒾𝒷 ✨
 
 📌 “Knowledge is power. Applying AI to healthcare transforms information into life-changing insights.”
