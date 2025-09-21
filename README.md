@@ -54,8 +54,8 @@ Patients can easily **register, log in, book appointments, and provide feedback*
 </p>  
 
 <p align="center">
-  <img src="1.png" width="400"/>
-  <img src="2.png" width="400"/>
+  <img src="1.png" width="400" height="400"/>
+  <img src="2.png" width="400" height="400"/>
 </p>
 
 
